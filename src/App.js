@@ -1,5 +1,5 @@
 import React from "react";
-import { ExchangeRates } from "./index";
+import { ExchangeRates } from "./ExchangeRates";
 
 function App() {
   return (
